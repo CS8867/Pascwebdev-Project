@@ -1,0 +1,71 @@
+body {
+  font-family: "Montserrat"
+}
+
+h1 {
+  line-height: 2;
+}
+
+p {
+  margin-bottom: 4px;
+  line-height: 2;
+}
+
+#Covid-title {
+  background-color: #293462;
+  font-family: "Montserrat";
+  color: white;
+}
+
+
+.navbar-custom {
+  padding: 1rem 3rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* Covid description */
+#Covid-description {
+  padding: 4% 7%;
+
+}
+
+.row-donate-volunteer {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+.participate-card {
+  padding-top: 7%;
+  padding-bottom: 7%;
+  text-align: center;
+}
+
+.card {
+  margin: auto;
+}
+
+.card-img-top {
+  height: 14rem;
+}
+
+.card-text {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.home-btn {
+  text-align: center;
+  padding-bottom: 4%;
+}
+
+@media (max-width: 728px){
+  body {
+    text-align: center;
+  }
+}

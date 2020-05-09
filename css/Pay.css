@@ -1,0 +1,13 @@
+.container {
+  padding-top: 7%;
+}
+
+.pay-div {
+  border: 1px solid grey;
+  border-radius: 7px;
+
+}
+
+.pay-form {
+  padding: 2rem;
+}

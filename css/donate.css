@@ -1,0 +1,40 @@
+body {
+  font-family: "Montserrat"
+}
+
+h1 {
+  line-height: 2;
+}
+
+p {
+  margin-bottom: 4px;
+  line-height: 2;
+}
+
+#donate-title {
+  background-color: #293462;
+  font-family: "Montserrat";
+  color: white;
+}
+
+
+.navbar-custom {
+  padding: 1rem 3rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+/* Form */
+#donate-form-section {
+  padding: 4% 7%;
+}
+
+.donate-buttons {
+  text-align: center;
+  padding-top: 3rem;
+}

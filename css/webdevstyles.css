@@ -1,0 +1,135 @@
+body {
+  font-family: "Montserrat"
+}
+
+h1 {
+
+  line-height: 2;
+}
+
+p {
+  margin-bottom: 4px;
+  line-height: 2;
+}
+
+#title {
+  background-color: #293462;
+
+  color: white;
+}
+
+
+.navbar-custom {
+  padding: 1rem 3rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar-list-items {
+  padding-left: 20%;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+.nav-link {
+  color: white;
+}
+
+
+/* First Carousel */
+.carousel .slide {
+  height: 100%;
+}
+
+.carousel-inner {
+  height: 100%;
+}
+
+.first-carousel-div .carousel-item .active {
+  height: 100%;
+}
+
+.carousel-image {
+  width: 100%;
+  height: 80%;
+}
+
+
+
+/* Introduction */
+#introduction {
+  padding: 7%;
+}
+
+.about-us-img {
+  width: 20%;
+  float: right;
+}
+
+/* Covid-19 Relief */
+#Covid-19-info {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #293462;
+  color: white;
+}
+
+.Covid-notice {
+  font-weight: bold;
+}
+
+.btn-knowmore {
+  margin-top: 15px;
+}
+
+/* Donate Volunteer */
+.row-donate-volunteer {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+.participate-card {
+  padding-top: 7%;
+  padding-bottom: 7%;
+  text-align: center;
+}
+
+.card {
+  margin: auto;
+}
+
+.card-img-top {
+  height: 14rem;
+}
+
+.card-text {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+/* Footer */
+#contact-us {
+  text-align: center;
+  background-color: #293462;
+  color: white;
+}
+
+.contact-us-div {
+  padding-top: 4%;
+}
+
+.footer-icon {
+  padding: 3% 1.5% 4%;
+  font-size: 1.5rem;
+}
+
+.Copyright {
+  padding-bottom: 20px;
+}
